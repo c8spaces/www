@@ -2,7 +2,7 @@
 date: 2022-05-26T10:58:08-04:00
 description: "Welcome to C8Spaces"
 #featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
-tags: ["scene"]
+tags: []
 title: "Welcome to C8Spaces"
 ---
 
