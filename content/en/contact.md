@@ -11,5 +11,3 @@ menu: main
 
 Follow me on Twitter https://twitter.com/c8spaces and Youtube https://www.youtube.com/channel/UCOiRTW5oOW72MTQIBrBBUnQ 
 
-
-{{< form-contact action="https://c8spaces.io"  >}}
