@@ -1,4 +1,4 @@
-baseURL = 'http://c8spaces.github.io/www'
+baseURL = 'https://c8spaces.io'
 languageCode = 'en-us'
 title = 'C8Spaces'
 theme = 'ananke'
