@@ -37,3 +37,10 @@ enableRobotsTXT = true
 name = "twitter"
 url = "https://twitter.com/c8spaces"
 
+[[params.ananke_socials]]
+name = "github"
+url = "https://github.com/c8spaces"
+
+[[params.ananke_socials]]
+name = "youtube"
+url = "https://www.youtube.com/channel/UCOiRTW5oOW72MTQIBrBBUnQ"
